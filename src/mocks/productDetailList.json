@@ -1,0 +1,499 @@
+[
+  {
+    "id": 1243,
+    "name": "Raya Scarf",
+    "productType": "normal",
+    "releaseDate": "2022-12-28T17:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Black_1673337663685.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1500237,
+        "product": {
+          "id": 1243
+        },
+        "price": 199000,
+        "weight": 105,
+        "inventories": [
+          {
+            "quantity": 196,
+            "location": {
+              "id": 13
+            }
+          }
+        ],
+        "details": [
+          {
+            "id": 887915,
+            "key": "color",
+            "value": "Black",
+            "imageURL": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Black_1672232389084.jpg"
+          }
+        ]
+      }
+    ],
+    "numOrders": 291,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"color: rgb(38, 38, 38); font-family: &quot;Nunito Sans&quot;;\">Total 7 pilihan warna</span></p><p><span style=\"color: rgb(38, 38, 38); font-family: &quot;Nunito Sans&quot;;\">Size 115cm x 115cm</span></p><p><span style=\"color: rgb(38, 38, 38); font-family: &quot;Nunito Sans&quot;;\">Lasercut finising</span></p><p><span style=\"color: rgb(38, 38, 38); font-family: &quot;Nunito Sans&quot;;\">1kg = 12pcs</span></p><p><span style=\"color: rgb(38, 38, 38); font-family: &quot;Nunito Sans&quot;;\">Harga Rp 199.000,- (bestprice)</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0680060",
+    "weight": 105,
+    "score": 4.5,
+    "vendorCategories": [
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 1615,
+    "name": "Blossom Scarf - Cream",
+    "productType": "normal",
+    "releaseDate": "2022-12-28T17:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/images/products/Blossom_Scarf_1659756957802.png"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 6366,
+        "product": {
+          "id": 1615
+        },
+        "price": 199000,
+        "inventories": [
+          {
+            "quantity": 11,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 3147,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"color: rgb(38, 38, 38); font-family: &quot;Nunito Sans&quot;;\">Size 115cm x 115cm</span></p><p><span style=\"color: rgb(38, 38, 38); font-family: &quot;Nunito Sans&quot;;\">Lasercut finising</span></p><p><span style=\"color: rgb(38, 38, 38); font-family: &quot;Nunito Sans&quot;;\">1kg = 12pcs</span></p><p><span style=\"color: rgb(38, 38, 38); font-family: &quot;Nunito Sans&quot;;\">Harga satuan Rp 199.000,-</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0110150",
+    "weight": 105,
+    "productGuide": {
+      "id": 320,
+      "guideLabel": "",
+      "guides": []
+    },
+    "hashtags": [
+      {
+        "id": 32,
+        "name": "newarrivals"
+      }
+    ],
+    "score": 4.96,
+    "vendorCategories": [
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 242163,
+    "name": "Meeda Shawl",
+    "productType": "normal",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Latte_2_1673836797880.jpeg"
+      },
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/True_Navy_1673836797603.jpeg"
+      },
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Black_1673836797753.jpeg"
+      },
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Mauve_Chalk_1673836797962.jpeg"
+      },
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Khaki_1673836797794.jpeg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1558996,
+        "product": {
+          "id": 242163
+        },
+        "price": 199000,
+        "weight": 280,
+        "inventories": [
+          {
+            "quantity": 52,
+            "location": {
+              "id": 13
+            }
+          }
+        ],
+        "details": [
+          {
+            "id": 915172,
+            "key": "color",
+            "value": "Mauve Chalk",
+            "imageURL": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Mauve_Chalk_1673836798173.jpeg",
+            "attributeId": 9
+          }
+        ]
+      },
+      {
+        "id": 1558997,
+        "product": {
+          "id": 242163
+        },
+        "price": 199000,
+        "weight": 280,
+        "inventories": [
+          {
+            "quantity": 94,
+            "location": {
+              "id": 13
+            }
+          }
+        ],
+        "details": [
+          {
+            "id": 915173,
+            "key": "color",
+            "value": "Khaki",
+            "imageURL": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Khaki_1673836798175.jpeg",
+            "attributeId": 8
+          }
+        ]
+      },
+      {
+        "id": 1558998,
+        "product": {
+          "id": 242163
+        },
+        "price": 199000,
+        "weight": 280,
+        "inventories": [
+          {
+            "quantity": 40,
+            "location": {
+              "id": 13
+            }
+          }
+        ],
+        "details": [
+          {
+            "id": 915174,
+            "key": "color",
+            "value": "Latte",
+            "imageURL": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Latte_2_1673836798173.jpeg",
+            "attributeId": 7
+          }
+        ]
+      },
+      {
+        "id": 1558999,
+        "product": {
+          "id": 242163
+        },
+        "price": 199000,
+        "weight": 280,
+        "inventories": [
+          {
+            "quantity": 44,
+            "location": {
+              "id": 13
+            }
+          }
+        ],
+        "details": [
+          {
+            "id": 915175,
+            "key": "color",
+            "value": "True Navy",
+            "imageURL": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/True_Navy_1673836798173.jpeg",
+            "attributeId": 3
+          }
+        ]
+      }
+    ],
+    "numOrders": 154,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"color: rgba(0, 0, 0, 0.8); font-family: &quot;Nunito Sans&quot;;\">Gonegani adalah produk Local Brand Indonesia, Produk Meeda Shawl ini berbahan Tancel modal. Kami memberikan 5 pilihan warna berbeda.</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8); font-family: &quot;Nunito Sans&quot;;\">Size Chart</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8); font-family: &quot;Nunito Sans&quot;;\">kurang lebih panjang 75cm x lebar 185cm</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8); font-family: &quot;Nunito Sans&quot;;\">1Kg bisa muat pemesanan 3pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "GO1686",
+    "weight": 280,
+    "productGuide": {
+      "id": 134812,
+      "guideLabel": "",
+      "guides": []
+    },
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      },
+      {
+        "id": 9228,
+        "name": "Meeda Shawl",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Mauve_Chalk_1684565801937.jpeg",
+        "sort": 13
+      }
+    ]
+  },
+  {
+    "id": 262494,
+    "name": "Luna Cardigan - Dusty Pink",
+    "productType": "normal",
+    "releaseDate": "2023-03-20T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Dustypink_1679275096630.jpeg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1768690,
+        "product": {
+          "id": 262494
+        },
+        "price": 229000,
+        "inventories": [
+          {
+            "quantity": 23,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 50,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Cardigan total 5 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan Cotton Knit 100% (adem, lembut, menyerap keringat &amp; nyaman)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">All size</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Lingkar dada (±) 116cm (bisa melar lagi karena bahan knit)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Panjang (±) 60-61cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 229.000,- (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 4pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "KW0400210",
+    "weight": 300,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 7958,
+        "name": "Knitwear",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Knitwear_1674188061394.jpg",
+        "sort": 6
+      },
+      {
+        "id": 10375,
+        "name": "Luna Cardigan",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Mocca_1679230244511.jpeg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 268937,
+    "name": "Secret Voal Eyelesh - Forest",
+    "productType": "normal",
+    "releaseDate": "2023-04-02T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Forest_1680329339441.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1820223,
+        "product": {
+          "id": 268937
+        },
+        "price": 99000,
+        "inventories": [
+          {
+            "quantity": 7,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 163,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 21 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan SECRET VOAL (bukan paris ataupun voal) tapi satu tingkat premiumnya.</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size 110×110cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 99.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 16pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0780270",
+    "weight": 80,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      },
+      {
+        "id": 10638,
+        "name": "Secret Voal Eyelesh",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/String_1684565736957.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 268942,
+    "name": "Secret Voal Eyelesh - Grape",
+    "productType": "normal",
+    "releaseDate": "2023-04-02T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Grape_1680329401956.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1820241,
+        "product": {
+          "id": 268942
+        },
+        "price": 99000,
+        "inventories": [
+          {
+            "quantity": 44,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 140,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 21 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan SECRET VOAL (bukan paris ataupun voal) tapi satu tingkat premiumnya.</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size 110×110cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 99.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 16pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0780280",
+    "weight": 80,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      },
+      {
+        "id": 10638,
+        "name": "Secret Voal Eyelesh",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/String_1684565736957.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 268953,
+    "name": "Secret Voal Eyelesh - Lavender",
+    "productType": "normal",
+    "releaseDate": "2023-04-02T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Lavender_1680329789509.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1820288,
+        "product": {
+          "id": 268953
+        },
+        "price": 99000,
+        "inventories": [
+          {
+            "quantity": 69,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 59,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 21 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan SECRET VOAL (bukan paris ataupun voal) tapi satu tingkat premiumnya.</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size 110×110cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 99.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 16pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0780390",
+    "weight": 80,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      },
+      {
+        "id": 10638,
+        "name": "Secret Voal Eyelesh",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/String_1684565736957.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  }
+]
