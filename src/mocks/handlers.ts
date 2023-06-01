@@ -8,11 +8,11 @@ export const handlers = [
     return res(ctx.json(productList));
   }),
 
-  rest.get(`/productdetail`, (_req, res, ctx) => {
-    const { productId } = _req.params;
+  rest.get(`/productdetail/:id`, (_req, res, ctx) => {
+    const { id } = _req.params;
 
     const filteredItem = productDetailList.filter(
-      (product) => product.id === Number(productId),
+      (product) => product.id === Number(id),
     );
 
     return res(ctx.json(filteredItem));
