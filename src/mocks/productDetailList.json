@@ -495,5 +495,1060 @@
       }
     ],
     "releaseCountDown": true
+  },
+  {
+    "id": 268956,
+    "name": "Secret Voal Eyelesh - Mauve",
+    "productType": "normal",
+    "releaseDate": "2023-04-02T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Mauve_1680329890247.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1820291,
+        "product": {
+          "id": 268956
+        },
+        "price": 99000,
+        "inventories": [
+          {
+            "quantity": 64,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 91,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 21 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan SECRET VOAL (bukan paris ataupun voal) tapi satu tingkat premiumnya.</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size 110×110cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 99.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 16pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0782060",
+    "weight": 80,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      },
+      {
+        "id": 10638,
+        "name": "Secret Voal Eyelesh",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/String_1684565736957.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 268958,
+    "name": "Secret Voal Eyelesh - Military Olive",
+    "productType": "normal",
+    "releaseDate": "2023-04-02T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Military_Olive_1680329914419.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1820295,
+        "product": {
+          "id": 268958
+        },
+        "price": 99000,
+        "inventories": [
+          {
+            "quantity": 12,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 149,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 21 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan SECRET VOAL (bukan paris ataupun voal) tapi satu tingkat premiumnya.</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size 110×110cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 99.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 16pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0781920",
+    "weight": 80,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      },
+      {
+        "id": 10638,
+        "name": "Secret Voal Eyelesh",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/String_1684565736957.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 268959,
+    "name": "Secret Voal Eyelesh - Mint",
+    "productType": "normal",
+    "releaseDate": "2023-04-02T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Mint_1680329942313.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1820296,
+        "product": {
+          "id": 268959
+        },
+        "price": 99000,
+        "inventories": [
+          {
+            "quantity": 40,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 128,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 21 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan SECRET VOAL (bukan paris ataupun voal) tapi satu tingkat premiumnya.</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size 110×110cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 99.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 16pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0780540",
+    "weight": 80,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      },
+      {
+        "id": 10638,
+        "name": "Secret Voal Eyelesh",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/String_1684565736957.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 268962,
+    "name": "Secret Voal Eyelesh - Nutela",
+    "productType": "normal",
+    "releaseDate": "2023-04-02T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Nutela_1680330003616.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1820299,
+        "product": {
+          "id": 268962
+        },
+        "price": 99000,
+        "inventories": [
+          {
+            "quantity": 67,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 74,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 21 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan SECRET VOAL (bukan paris ataupun voal) tapi satu tingkat premiumnya.</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size 110×110cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 99.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 16pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0780630",
+    "weight": 80,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      },
+      {
+        "id": 10638,
+        "name": "Secret Voal Eyelesh",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/String_1684565736957.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 268965,
+    "name": "Secret Voal Eyelesh - Tea Rose",
+    "productType": "normal",
+    "releaseDate": "2023-04-02T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Tea_Rose_1680330075109.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1820303,
+        "product": {
+          "id": 268965
+        },
+        "price": 99000,
+        "inventories": [
+          {
+            "quantity": 10,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 167,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 21 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan SECRET VOAL (bukan paris ataupun voal) tapi satu tingkat premiumnya.</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size 110×110cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 99.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 16pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0782600",
+    "weight": 80,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      },
+      {
+        "id": 10638,
+        "name": "Secret Voal Eyelesh",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/String_1684565736957.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 268972,
+    "name": "Aleza Silk Eyelesh Shawl - Olive",
+    "productType": "normal",
+    "releaseDate": "2023-04-02T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Olive_1680331809387.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1820335,
+        "product": {
+          "id": 268972
+        },
+        "price": 129000,
+        "inventories": [
+          {
+            "quantity": 5,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 122,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 12 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan Credenza Silk Import</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Jahitan pinggir Eyelesh</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size 175 × 70cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 129.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 9pcs</span></p><p><br></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0790640",
+    "weight": 140,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      },
+      {
+        "id": 10640,
+        "name": "Aleza Silk Eyelesh Shawl",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hemlock_1684565696205.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 268973,
+    "name": "Aleza Silk Eyelesh Shawl - Violet",
+    "productType": "normal",
+    "releaseDate": "2023-04-02T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Violet_1680331832261.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1820336,
+        "product": {
+          "id": 268973
+        },
+        "price": 129000,
+        "inventories": [
+          {
+            "quantity": 54,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 65,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 12 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan Credenza Silk Import</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Jahitan pinggir Eyelesh</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size 175 × 70cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 129.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 9pcs</span></p><p><br></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0792100",
+    "weight": 140,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      },
+      {
+        "id": 10640,
+        "name": "Aleza Silk Eyelesh Shawl",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hemlock_1684565696205.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 268976,
+    "name": "Aleza Silk Eyelesh Shawl - Mint Blue",
+    "productType": "normal",
+    "releaseDate": "2023-04-02T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Mint_Blue_1680331914640.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1820339,
+        "product": {
+          "id": 268976
+        },
+        "price": 129000,
+        "inventories": [
+          {
+            "quantity": 5,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 80,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 12 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan Credenza Silk Import</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Jahitan pinggir Eyelesh</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size 175 × 70cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 129.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 9pcs</span></p><p><br></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0791930",
+    "weight": 140,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      },
+      {
+        "id": 10640,
+        "name": "Aleza Silk Eyelesh Shawl",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hemlock_1684565696205.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 268977,
+    "name": "Aleza Silk Eyelesh Shawl - Rose Down",
+    "productType": "normal",
+    "releaseDate": "2023-04-02T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Rose_Down_1680331940236.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1820340,
+        "product": {
+          "id": 268977
+        },
+        "price": 129000,
+        "inventories": [
+          {
+            "quantity": 13,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 107,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 12 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan Credenza Silk Import</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Jahitan pinggir Eyelesh</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size 175 × 70cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 129.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 9pcs</span></p><p><br></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0791460",
+    "weight": 140,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      },
+      {
+        "id": 10640,
+        "name": "Aleza Silk Eyelesh Shawl",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hemlock_1684565696205.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 268997,
+    "name": "Aleza Silk Eyelesh Shawl - Black",
+    "productType": "normal",
+    "releaseDate": "2023-04-02T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Black_1680335550679.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1820520,
+        "product": {
+          "id": 268997
+        },
+        "price": 129000,
+        "inventories": [
+          {
+            "quantity": 687,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 234,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 12 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan Credenza Silk Import</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Jahitan pinggir Eyelesh</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size 175 × 70cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 129.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 9pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0790060",
+    "weight": 140,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      },
+      {
+        "id": 10640,
+        "name": "Aleza Silk Eyelesh Shawl",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hemlock_1684565696205.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 269002,
+    "name": "Aleza Silk Eyelesh Shawl - Maroon",
+    "productType": "normal",
+    "releaseDate": "2023-04-02T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Maroon_1680337021574.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1820607,
+        "product": {
+          "id": 269002
+        },
+        "price": 129000,
+        "inventories": [
+          {
+            "quantity": 47,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 91,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 12 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan Credenza Silk Import</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Jahitan pinggir Eyelesh</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size 175 × 70cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 129.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 9pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "AC0790470",
+    "weight": 140,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 47,
+        "name": "Hijab",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hijab_1674188020870.jpg",
+        "sort": 7
+      },
+      {
+        "id": 10640,
+        "name": "Aleza Silk Eyelesh Shawl",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Hemlock_1684565696205.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 277964,
+    "name": "Cinderella Dress Basic - Denim",
+    "productType": "normal",
+    "releaseDate": "2023-04-12T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Denim_1681196059087.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1899391,
+        "product": {
+          "id": 277964
+        },
+        "price": 349000,
+        "weight": 645,
+        "inventories": [
+          {
+            "quantity": 3,
+            "location": {
+              "id": 13
+            }
+          }
+        ],
+        "details": [
+          {
+            "id": 1098865,
+            "key": "Size",
+            "value": "XS"
+          }
+        ]
+      },
+      {
+        "id": 1899392,
+        "product": {
+          "id": 277964
+        },
+        "price": 349000,
+        "weight": 645,
+        "inventories": [
+          {
+            "quantity": 13,
+            "location": {
+              "id": 13
+            }
+          }
+        ],
+        "details": [
+          {
+            "id": 1098866,
+            "key": "Size",
+            "value": "S"
+          }
+        ]
+      },
+      {
+        "id": 1899393,
+        "product": {
+          "id": 277964
+        },
+        "price": 349000,
+        "weight": 645,
+        "inventories": [
+          {
+            "quantity": 9,
+            "location": {
+              "id": 13
+            }
+          }
+        ],
+        "details": [
+          {
+            "id": 1098867,
+            "key": "Size",
+            "value": "M"
+          }
+        ]
+      },
+      {
+        "id": 1899394,
+        "product": {
+          "id": 277964
+        },
+        "price": 349000,
+        "weight": 645,
+        "inventories": [
+          {
+            "quantity": 0,
+            "location": {
+              "id": 13
+            }
+          }
+        ],
+        "details": [
+          {
+            "id": 1098868,
+            "key": "Size",
+            "value": "L"
+          }
+        ]
+      },
+      {
+        "id": 1899395,
+        "product": {
+          "id": 277964
+        },
+        "price": 349000,
+        "weight": 645,
+        "inventories": [
+          {
+            "quantity": 0,
+            "location": {
+              "id": 13
+            }
+          }
+        ],
+        "details": [
+          {
+            "id": 1098869,
+            "key": "Size",
+            "value": "XL"
+          }
+        ]
+      }
+    ],
+    "numOrders": 240,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 6 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan Ceruty Babydoll Premium</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Busui Friendly</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Full Furing</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Wudhu Friendly</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size XS, S, M, L, XL</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Lingkar dada 85/90/95/100/105cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Panjang 138-140cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 349.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\"><span class=\"ql-cursor\">﻿﻿﻿﻿﻿</span>1kg = 2pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "CB1954",
+    "weight": 810,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 45,
+        "name": "Dress",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Taupe_1668659073973.jpg",
+        "sort": 4
+      },
+      {
+        "id": 11176,
+        "name": "Cinderella Dress Basic",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Broken_White_1684566196763.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 277969,
+    "name": "Cinderella Dress Basic - Broken White",
+    "productType": "normal",
+    "releaseDate": "2023-04-12T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Broken_White_1681196211055.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1899412,
+        "product": {
+          "id": 277969
+        },
+        "price": 349000,
+        "weight": 645,
+        "inventories": [
+          {
+            "quantity": 0,
+            "location": {
+              "id": 13
+            }
+          }
+        ],
+        "details": [
+          {
+            "id": 1098886,
+            "key": "Size",
+            "value": "XS"
+          }
+        ]
+      },
+      {
+        "id": 1899413,
+        "product": {
+          "id": 277969
+        },
+        "price": 349000,
+        "weight": 645,
+        "inventories": [
+          {
+            "quantity": 5,
+            "location": {
+              "id": 13
+            }
+          }
+        ],
+        "details": [
+          {
+            "id": 1098887,
+            "key": "Size",
+            "value": "S"
+          }
+        ]
+      },
+      {
+        "id": 1899414,
+        "product": {
+          "id": 277969
+        },
+        "price": 349000,
+        "weight": 645,
+        "inventories": [
+          {
+            "quantity": 9,
+            "location": {
+              "id": 13
+            }
+          }
+        ],
+        "details": [
+          {
+            "id": 1098888,
+            "key": "Size",
+            "value": "M"
+          }
+        ]
+      },
+      {
+        "id": 1899415,
+        "product": {
+          "id": 277969
+        },
+        "price": 349000,
+        "weight": 645,
+        "inventories": [
+          {
+            "quantity": 0,
+            "location": {
+              "id": 13
+            }
+          }
+        ],
+        "details": [
+          {
+            "id": 1098889,
+            "key": "Size",
+            "value": "L"
+          }
+        ]
+      },
+      {
+        "id": 1899416,
+        "product": {
+          "id": 277969
+        },
+        "price": 349000,
+        "weight": 645,
+        "inventories": [
+          {
+            "quantity": 0,
+            "location": {
+              "id": 13
+            }
+          }
+        ],
+        "details": [
+          {
+            "id": 1098890,
+            "key": "Size",
+            "value": "XL"
+          }
+        ]
+      }
+    ],
+    "numOrders": 236,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 6 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan Ceruty Babydoll Premium</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Busui Friendly</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Full Furing</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Wudhu Friendly</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Size XS, S, M, L, XL</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Lingkar dada 85/90/95/100/105cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Panjang 138-140cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 349.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 2pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "CB1958",
+    "weight": 810,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 45,
+        "name": "Dress",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Taupe_1668659073973.jpg",
+        "sort": 4
+      },
+      {
+        "id": 11176,
+        "name": "Cinderella Dress Basic",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Broken_White_1684566196763.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 278201,
+    "name": "Soka Span Skirt - Caramel",
+    "productType": "normal",
+    "releaseDate": "2023-04-12T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Caramel_1681200434693.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1900110,
+        "product": {
+          "id": 278201
+        },
+        "price": 199000,
+        "inventories": [
+          {
+            "quantity": 12,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 92,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 6 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan Cotton Knit 100% (adem, lembut, menyerap keringat &amp; nyaman)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">All size</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Full Karet Pinggang.</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Lingkar Pinggang sebelum melar (</span><span style=\"color: rgb(77, 81, 86);\">±</span><span style=\"font-family: &quot;Nunito Sans&quot;;\">)60cm, bisa melar hingga (</span><span style=\"color: rgb(77, 81, 86);\">±)</span><span style=\"font-family: &quot;Nunito Sans&quot;;\">120cm.</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Panjang (</span><span style=\"color: rgb(77, 81, 86);\">±</span><span style=\"font-family: &quot;Nunito Sans&quot;;\">)89-90cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 199.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 3pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "BT1430100",
+    "weight": 410,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 8927,
+        "name": "Bottom",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Ivory_1672276216862.jpg",
+        "sort": 9
+      },
+      {
+        "id": 11182,
+        "name": "Soka Span Skirt",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Kocca_1683167686666.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
+  },
+  {
+    "id": 278203,
+    "name": "Soka Span Skirt - Mocca",
+    "productType": "normal",
+    "releaseDate": "2023-04-12T03:00:00Z",
+    "useStock": true,
+    "preorderPolicy": "unavailable",
+    "images": [
+      {
+        "url": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Kocca_1681200475679.jpg"
+      }
+    ],
+    "productVariations": [
+      {
+        "id": 1900112,
+        "product": {
+          "id": 278203
+        },
+        "price": 199000,
+        "inventories": [
+          {
+            "quantity": 5,
+            "location": {
+              "id": 13
+            }
+          }
+        ]
+      }
+    ],
+    "numOrders": 361,
+    "description": "<div class=\"quill-editor-v2\"><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Total 6 warna</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Bahan Cotton Knit 100% (adem, lembut, menyerap keringat &amp; nyaman)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">All size</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Full Karet Pinggang.</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Lingkar Pinggang sebelum melar (</span><span style=\"color: rgb(77, 81, 86);\">±</span><span style=\"font-family: &quot;Nunito Sans&quot;;\">)60cm, bisa melar hingga (</span><span style=\"color: rgb(77, 81, 86);\">±)</span><span style=\"font-family: &quot;Nunito Sans&quot;;\">120cm.</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Panjang (</span><span style=\"color: rgb(77, 81, 86);\">±</span><span style=\"font-family: &quot;Nunito Sans&quot;;\">)89-90cm</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">Harga Rp 199.000, - (best price)</span></p><p><span style=\"font-family: &quot;Nunito Sans&quot;;\">1kg = 3pcs</span></p></div>",
+    "estimatedDeliveryTimeInstock": "EDT_24_HOURS",
+    "estimatedDeliveryTimePreorder": "EDT_2_WEEKS",
+    "productCode": "BT1450580",
+    "weight": 410,
+    "vendorCategories": [
+      {
+        "id": 6898,
+        "name": "New Arrivals",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Cream_1674188274054.jpeg",
+        "sort": 1
+      },
+      {
+        "id": 8927,
+        "name": "Bottom",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Ivory_1672276216862.jpg",
+        "sort": 9
+      },
+      {
+        "id": 11182,
+        "name": "Soka Span Skirt",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/plugolive/vendor/19/product/Kocca_1683167686666.jpg",
+        "sort": 2147483647
+      }
+    ],
+    "releaseCountDown": true
   }
 ]
