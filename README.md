@@ -13,7 +13,7 @@
 
 ## 🕹️ How To Start
 ```ts
-$ git clone https://github.com/Sungrinhan/frontend-humelo.git
+$ git clone https://github.com/Sungrinhan/Plugo_Frontend.git
 $ cd {Repository name}
 $ npm install
 $ npm start
