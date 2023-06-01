@@ -1,5 +1,5 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
-import { Product } from "types/product";
+import { Product, ProductDetailInfo } from "types/product";
 
 const BASE_URL = "/";
 
@@ -10,7 +10,14 @@ export const productApi = createApi({
     getProductList: builder.query<Product[], null>({
       query: () => "/productlist",
     }),
+
+    getProductDetailInfo: builder.query<ProductDetailInfo[], { id: string }>({
+      query: ({ id }) => ({
+        url: `/productdetail/${id}`,
+      }),
+    }),
   }),
 });
 
-export const { useGetProductListQuery } = productApi;
+export const { useGetProductListQuery, useGetProductDetailInfoQuery } =
+  productApi;
