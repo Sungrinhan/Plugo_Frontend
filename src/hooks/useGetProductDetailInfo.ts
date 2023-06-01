@@ -17,7 +17,6 @@ const useGetProductDetailInfo = () => {
     if (data) {
       const obj = data[0];
       setDetailInfo(obj);
-      console.log(obj);
     }
   }, [data]);
 
