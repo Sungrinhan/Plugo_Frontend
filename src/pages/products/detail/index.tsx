@@ -4,6 +4,8 @@ import useGetProductDetailInfo from "hooks/useGetProductDetailInfo";
 const ProductDetailPage = () => {
   const { detailInfo } = useGetProductDetailInfo();
 
+  const handleCartButtonClick = () => {};
+
   return (
     <VMain>
       <VMainWrap>
@@ -30,7 +32,7 @@ const ProductDetailPage = () => {
                   <ProductPrice>
                     Rp {detailInfo ? detailInfo.productVariations[0].price : ""}
                   </ProductPrice>
-                  <CartButton>
+                  <CartButton onClick={handleCartButtonClick}>
                     <BtnContent>
                       <BtnIcon>
                         <svg
@@ -142,7 +144,7 @@ const ProductDetailPage = () => {
 export default ProductDetailPage;
 
 const VMain = styled.div`
-  padding: 112px 0px 198px;
+  padding: 112px 0px 298px;
   display: flex;
   flex: 1 0 auto;
   max-width: 100%;

@@ -39,6 +39,7 @@ export interface Product {
 export interface ProductDetailInfo {
   id: number;
   name: string;
+  quantity?: number;
   productType: string;
   releaseDate: string;
   useStock: boolean;

@@ -1,21 +1,10 @@
-import { useState, useEffect } from "react";
-
 import styled from "@emotion/styled";
-import { useGetProductListQuery } from "store/services/product";
-import { Product } from "types/product";
+import useGetProductList from "hooks/useGetProductList";
 
 import Card from "./Card";
 
 const CardList = () => {
-  const [productList, setProductList] = useState<Product[] | []>([]);
-
-  const { data, isLoading } = useGetProductListQuery(null);
-
-  useEffect(() => {
-    if (data) {
-      setProductList(data);
-    }
-  }, [data]);
+  const { productList, isLoading } = useGetProductList();
 
   return (
     <Wrapper>
